@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "3ot05ECs2ot4H5v3ul1dKoTWozA=",
+			"path": "github.com/corpix/uarand",
+			"revision": "2b8494104d86337cdd41d0a49cbed8e4583c0ab4",
+			"revisionTime": "2017-09-03T19:08:22Z"
+		},
+		{
+			"checksumSHA1": "vrYJBnqzBJBmCmiVPgCLwxuBCmc=",
+			"path": "github.com/icrowley/fake",
+			"revision": "e64cc2cf92049a299f359734c6ea76073f2a8b2c",
+			"revisionTime": "2017-07-23T15:10:11Z"
+		}
+	],
+	"rootPath": "github.com/mongey/postcode-anywhere-stub"
+}

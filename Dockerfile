@@ -1,8 +1,7 @@
 FROM alpine:latest
 
-WORKDIR /app
-COPY postcode-anywhere-stub .
+COPY pkg/linux_amd64/postcode-anywhere-stub /bin
 
 EXPOSE 9040
 
-ENTRYPOINT ["/app/postcode-anywhere-stub"]
+ENTRYPOINT ["/bin/postcode-anywhere-stub"]
